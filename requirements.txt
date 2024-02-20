@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+folium
+streamlit
+branca==0.3.1
+altair
