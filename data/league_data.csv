@@ -1,2 +1,2 @@
-League,LeagueSeason,SeasonStart,SeasonEnd,PlayoffStart,PlayoffEnd,SalaryCap,LeagueXFollowers,LeagueIGFollowers
-NBA,2023-2024,2023-10-24,2024-04-15,2024-04-20,2024-06-23,136000000,44570000,86300000
+League,LeagueSeason,SeasonStart,SeasonEnd,PlayoffStart,PlayoffEnd,SalaryCap,LeagueXFollowers,LeagueIGFollowers,LeagueRevenue,LeaguePlayers,LeagueSalary,LeagueTotalFollowers,IGDate,XDate
+NBA,2023-2024,2023-10-24,2024-04-15,2024-04-20,2024-06-23,136000000,44570000,86300000,10580000000,450,6120000000,130870000,2023-03-01,2023-10-01
